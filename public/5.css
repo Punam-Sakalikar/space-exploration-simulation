@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+    background: linear-gradient(to right, #182d84, #130b5b, #141a56, #001229);;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+
+}
+
+
+img
+{
+    max-width: 320px;
+    float: left;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
